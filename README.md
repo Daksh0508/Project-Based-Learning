@@ -65,6 +65,7 @@ This project aims to develop a machine learning-based classification system to i
 ---
 
 ## 7. Project Structure
+```
 Project-Based-Learning/
 │
 ├── datasets/ # Raw and processed genomic datasets
@@ -86,7 +87,7 @@ Project-Based-Learning/
 │ └── readme.md # Source code documentation
 │
 └── README.md # Main project documentation
-
+```
 ---
 
 ## 8. Expected Outcome
